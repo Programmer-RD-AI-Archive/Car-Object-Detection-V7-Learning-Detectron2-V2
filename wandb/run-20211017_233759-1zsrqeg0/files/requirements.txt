@@ -163,7 +163,7 @@ pexpect==4.8.0
 phonenumbers==8.12.28
 pickleshare==0.7.5
 pillow==8.3.2
-pip==21.2.4
+pip==23.3
 platformdirs==2.3.0
 plotly==4.14.3
 pluggy==0.13.1
