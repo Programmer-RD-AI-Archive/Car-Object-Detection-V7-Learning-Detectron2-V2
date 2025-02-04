@@ -256,7 +256,7 @@ tzlocal==3.0
 universal-analytics-python3==1.1.1
 urllib3==1.26.0
 validators==0.18.2
-virtualenv==20.4.7
+virtualenv==20.26.6
 voxel51-eta==0.5.3
 wandb==0.10.0
 watchdog==2.1.5
